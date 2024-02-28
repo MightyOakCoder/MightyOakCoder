@@ -1,4 +1,4 @@
-# Becky Weeks
+# <center>Becky Weeks
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="350"/>
 </div>
@@ -10,10 +10,11 @@
 
 
 ## 🌀 A Quick Introduction 🌀</center>
-- 💻 I’m currently finishing up the last few weeks of my Software Engineerings bootcamp with General Assembly
-- 💼 I'm open to freelancing projects.
-- 👦🏻👦🏻 I'm the mom of two boys
-- 🍳 I enjoy cooking, 🧶 crafts, and 📺 watching tv (comedy, drama)
+- 💻 Navigating the intricacies of Node.js backend work while exploring the world of full-stack development
+- 👩🏻‍🎓 Proud graduate of General Assembly's immersive Software Engineering bootcamp
+- 🌟 Always open to exciting freelance gigs and opportunities
+- 👦🏻👦🏻 Rocking the mom life with two amazing boys.
+- 🍳 Cooking up a storm, 🧶 crafting my heart out, and 📺 binging on sci-fi, comedy, drama, and historical fiction.
 
 <!-- [![Becky's GitHub stats](https://github-readme-stats.vercel.app/api?username=beckyweeks14&show_icons=true&theme=dracula)](https://github.com/beckyweeks14/github-readme-stats) -->
 
